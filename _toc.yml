@@ -6,17 +6,9 @@ root: README
 
 chapters:
 
-- file: notebooks/1.Intro/introduction.ipynb
+- file: notebooks/01.Intro/introduction.ipynb
   sections:
-  - file: notebooks/1.Intro/cloud.ipynb
-  - file: notebooks/1.Intro/jupyter-nb.ipynb
-- file: notebooks/2.Running/RunningCESM.ipynb
-- file: notebooks/3.CESM2-LE/analyze-CESM2-LE.ipynb
-  sections:
-  - file: notebooks/3.CESM2-LE/plot_temperature.ipynb
-  - file: notebooks/3.CESM2-LE/plot_precipitation.ipynb
-- file: notebooks/4.Innovator-ens/our_ensemble.ipynb
-  sections:
-  - file: notebooks/4.Innovator-ens/plot_simulation_results.ipynb
-- file: notebooks/5.Resources/for_organizers.ipynb
+  - file: notebooks/01.Intro/cloud.ipynb
+  - file: notebooks/01.Intro/jupyter-nb.ipynb
+
 
