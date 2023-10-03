@@ -5,21 +5,27 @@ format: jb-book
 root: README
 
 chapters:
-- file: notebooks/01.Prerequisites/overview.ipynb
+- file: notebooks/01.Prerequisites/0.overview.ipynb
   sections:
-  - file: notebooks/01.Prerequisites/cloud.ipynb
-  - file: notebooks/01.Prerequisites/jupyter-nb.ipynb
+  - file: notebooks/01.Prerequisites/1.cloud.ipynb
+  - file: notebooks/01.Prerequisites/2.jupyter-nb.ipynb
 
 - file: notebooks/02.First-run/0.overview.ipynb
   sections:
-  - file: notebooks/02.First-run/1.cesm_directories.ipynb
-  - file: notebooks/02.First-run/2.first_run.ipynb
+  - file: notebooks/02.First-run/1.cesm-directories.ipynb
+  - file: notebooks/02.First-run/2.first-run.ipynb
 
-- file: notebooks/03.Basic-xml/template.ipynb
-- file: notebooks/04.Statistics/template.ipynb
-- file: notebooks/05.Output/template.ipynb
-- file: notebooks/06.Namelist/template.ipynb
-- file: notebooks/07.Troubleshoot/template.ipynb
-- file: notebooks/08.SourceMods/template.ipynb
-- file: notebooks/09.Runtype/template.ipynb
+- file: notebooks/03.Basic-xml/0.overview.ipynb
+
+- file: notebooks/04.Statistics/0.overview.ipynb
+
+- file: notebooks/05.Output/0.overview.ipynb
+
+- file: notebooks/06.Namelist/0.overview.ipynb
+
+- file: notebooks/07.Troubleshoot/0.overview.ipynb
+
+- file: notebooks/08.SourceMods/0.overview.ipynb
+
+- file: notebooks/09.Runtype/0.overview.ipynb
 
