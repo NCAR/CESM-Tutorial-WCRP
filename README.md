@@ -4,7 +4,7 @@
 
 **Location**: Add location
 ___
-![young_innovator_logo](images/young_innovator_logo.png)
+![young_innovator_logo](images/logo_WCRP-OSC_539X248px.svg)
 ___
 
 ### Planning committee
