@@ -1,4 +1,4 @@
-# [CESM-Tutorial-WCRP](https://ncar.github.io/CESM-Tutorial-WCRP/README.html)
+# [CESM Tutorial at WCRP](https://ncar.github.io/CESM-Tutorial-WCRP/README.html)
 
 **Time**: Add time
 
