@@ -5,10 +5,16 @@ format: jb-book
 root: README
 
 chapters:
-
-- file: notebooks/01.Intro/introduction.ipynb
+- file: notebooks/01.Prerequisites/introduction.ipynb
   sections:
   - file: notebooks/01.Intro/cloud.ipynb
   - file: notebooks/01.Intro/jupyter-nb.ipynb
-
+- file: notebooks/02.First-run/template.ipynb
+- file: notebooks/03.Basic-xml/template.ipynb
+- file: notebooks/04.Statistics/template.ipynb
+- file: notebooks/05.Output/template.ipynb
+- file: notebooks/06.Namelist/template.ipynb
+- file: notebooks/07.Troubleshoot/template.ipynb
+- file: notebooks/08.SourceMods/template.ipynb
+- file: notebooks/09.Runtype/template.ipynb
 
