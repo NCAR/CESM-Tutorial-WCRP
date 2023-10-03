@@ -1,10 +1,10 @@
-# [CESM-Tutorial-WCRP](https://ncar.github.io/CESM-Tutorial-WCRP/README.html)
+# [CESM Tutorial at WCRP](https://ncar.github.io/CESM-Tutorial-WCRP/README.html)
 
 **Time**: Add time
 
 **Location**: Add location
 ___
-![young_innovator_logo](images/young_innovator_logo.png)
+![Will add WCRP logo](images/logo_WCRP.png)
 ___
 
 ### Planning committee
