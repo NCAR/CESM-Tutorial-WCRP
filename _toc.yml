@@ -60,3 +60,5 @@ chapters:
   sections:
   - file: notebooks/11.LE-analysis/overview.ipynb
   - file: notebooks/11.LE-analysis/exercise.ipynb
+  
+- file: notebooks/12.Info-organizers/title.ipynb  
