@@ -10,10 +10,10 @@ chapters:
   - file: notebooks/01.Prerequisites/1.cloud.ipynb
   - file: notebooks/01.Prerequisites/2.jupyter-nb.ipynb
 
-- file: notebooks/02.First-run/0.overview.ipynb
+- file: notebooks/02.First-run/title.ipynb
   sections:
-  - file: notebooks/02.First-run/1.cesm-directories.ipynb
-  - file: notebooks/02.First-run/2.first-run.ipynb
+  - file: notebooks/02.First-run/overview.ipynb
+  - file: notebooks/02.First-run/exercise.ipynb
 
 - file: notebooks/03.Basic-xml/0.overview.ipynb
 
@@ -30,3 +30,5 @@ chapters:
 - file: notebooks/09.Runtype/0.overview.ipynb
 
 - file: notebooks/10.Community-runs/0.overview.ipynb
+
+- file: notebooks/11.LE-analysis/0.overview.ipynb
