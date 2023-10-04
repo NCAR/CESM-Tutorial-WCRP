@@ -8,7 +8,7 @@ ___
 ___
 
 ### Planning committee
-Alicia Kaspeck, Brian Dobbins, Cecile Hannay, and Isla Simpson 
+Alicia Karspeck, Brian Dobbins, Cecile Hannay, and Isla Simpson 
 
 ### Purpose
 
