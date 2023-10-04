@@ -4,7 +4,8 @@
 
 **Location**: Add location
 ___
-![Will add WCRP logo](images/logo_WCRP.png)
+
+[![WCRP logo](images/logo_WCRP.png)](https://wcrp-osc2023.org/)
 ___
 
 ### Planning committee
