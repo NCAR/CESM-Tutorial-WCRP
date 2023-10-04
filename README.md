@@ -1,6 +1,6 @@
 # [CESM Tutorial at WCRP](https://ncar.github.io/CESM-Tutorial-WCRP/README.html)
 
-**Time**: Tuesday 24 October and Wednesday 25 October (Evening)
+**Time**: October 24-25 (Evening)
 
 **Location**: Add location
 ___
