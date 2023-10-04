@@ -28,8 +28,8 @@ chapters:
 
 - file: notebooks/05.Output/title.ipynb
   sections:
-  - file: notebooks/5.Output/overview.ipynb
-  - file: notebooks/5.Output/exercise.ipynb
+  - file: notebooks/05.Output/overview.ipynb
+  - file: notebooks/05.Output/exercise.ipynb
 
 - file: notebooks/06.Namelist/title.ipynb
   sections:
