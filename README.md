@@ -2,7 +2,7 @@
 
 **Time**: October 24-25 (Evening)
 
-**Location**: Add location
+**Location**: TBD
 ___
 
 [![WCRP logo](images/logo_WCRP.png)](https://wcrp-osc2023.org/)
@@ -19,7 +19,7 @@ This workshop is intended for new users of the Community Earth System Model v2 (
 
 ### Agenda
 
-Add agenda
+TBD
 
 - 			
 
