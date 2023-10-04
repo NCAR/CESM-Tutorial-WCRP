@@ -18,7 +18,7 @@ This workshop is intended for new users of the Community Earth System Model v2 (
 
 ### Agenda
 
-All times in MDT (GMT-6)
+Add agenda
 
 - 			
 
