@@ -15,6 +15,9 @@ chapters:
   sections:
   - file: notebooks/02.First-run/overview.ipynb
   - file: notebooks/02.First-run/create_newcase.ipynb
+  - file: notebooks/02.First-run/case.setup.ipynb
+  - file: notebooks/02.First-run/case.build.ipynb
+  - file: notebooks/02.First-run/case.submit.ipynb 
   - file: notebooks/02.First-run/exercise.ipynb
 
 - file: notebooks/03.Basic-xml/title.ipynb
