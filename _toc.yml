@@ -59,7 +59,7 @@ chapters:
   - file: notebooks/08.SourceMods/overview.ipynb
   - file: notebooks/08.SourceMods/exercise.ipynb
 
-- file: notebooks/08.SourceMods/sourcemods
+- file: notebooks/08.SourceMods/title.ipynb
   sections:
   - file: notebooks/08.SourceMods/overview
   - file: notebooks/08.SourceMods/add_fields_cam
