@@ -11,17 +11,17 @@ chapters:
   - file: notebooks/01.Prerequisites/jupyter.ipynb
   - file: notebooks/01.Prerequisites/unix.ipynb
 
-- file: notebooks/02.First-run/title.ipynb
+- file: notebooks/02.CESM-basics/title.ipynb
   sections:
-  - file: notebooks/02.First-run/overview.ipynb
-  - file: notebooks/02.First-run/create_newcase.ipynb
-  - file: notebooks/02.First-run/setup_build_submit.ipynb
-  - file: notebooks/02.First-run/exercise.ipynb
+  - file: notebooks/02.CESM-basics/overview.ipynb
+  - file: notebooks/02.CESM-basics/create_newcase.ipynb
+  - file: notebooks/02.CESM-basics/setup_build_submit.ipynb
+  - file: notebooks/02.CESM-basics/exercise.ipynb
 
-- file: notebooks/03.Basic-xml/title.ipynb
+- file: notebooks/03.Run-length/title.ipynb
   sections:
-  - file: notebooks/03.Basic-xml/overview.ipynb
-  - file: notebooks/03.Basic-xml/exercise.ipynb
+  - file: notebooks/03.Run-length/overview.ipynb
+  - file: notebooks/03.Run-length/exercise.ipynb
 
 - file: notebooks/04.Statistics/title.ipynb
   sections:
