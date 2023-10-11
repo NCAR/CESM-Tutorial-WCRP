@@ -36,18 +36,10 @@ chapters:
 - file: notebooks/06.Namelist/title.ipynb
   sections:
   - file: notebooks/06.Namelist/overview.ipynb
+  - file: notebooks/06.Namelist/exercises/exercise_co2.ipynb
   - file: notebooks/06.Namelist/documentation
-  - file: notebooks/06.Namelist/output
-    sections:
-    - file: notebooks/06.Namelist/output/output_cam
-    - file: notebooks/06.Namelist/output/output_clm
-    - file: notebooks/06.Namelist/output/output_cice
-    - file: notebooks/06.Namelist/output/output_pop
-  - file: notebooks/06.Namelist/exercises_overview
-    sections:
-    - file: notebooks/06.Namelist/exercises/exercise_co2.ipynb
-    - file: notebooks/06.Namelist/exercises/exercise_cam_output
-    - file: notebooks/06.Namelist/exercises/exercise_tuning_parameter
+  - file: notebooks/06.Namelist/output/output_cam
+  - file: notebooks/06.Namelist/exercises/exercise_cam_output
 
 - file: notebooks/07.Troubleshoot/title.ipynb
   sections:
