@@ -20,13 +20,11 @@ chapters:
 
 - file: notebooks/03.Run-length/title.ipynb
   sections:
-  - file: notebooks/03.Run-length/overview.ipynb
-  - file: notebooks/03.Run-length/exercise.ipynb
-
-- file: notebooks/04.Statistics/title.ipynb
-  sections:
-  - file: notebooks/04.Statistics/overview.ipynb
-  - file: notebooks/04.Statistics/exercise.ipynb
+  - file: notebooks/03.Run-length/run_length.ipynb
+  - file: notebooks/03.Run-length/resubmission.ipynb  
+  - file: notebooks/03.Run-length/exercise1.ipynb
+  - file: notebooks/03.Run-length/statistics.ipynb  
+  - file: notebooks/03.Run-length/exercise2.ipynb
 
 - file: notebooks/05.Output/title.ipynb
   sections:
