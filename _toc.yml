@@ -4,6 +4,7 @@
 format: jb-book
 root: README
 
+chapters:
 - file: notebooks/01.Prerequisites/title.ipynb
   sections:
   - file: notebooks/01.Prerequisites/cloud.ipynb
