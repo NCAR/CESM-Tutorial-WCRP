@@ -7,6 +7,7 @@ root: README
 chapters:
 - file: notebooks/01.Prerequisites/title.ipynb
   sections:
+  - file: notebooks/01.Prerequisites/TOC.ipynb
   - file: notebooks/01.Prerequisites/cloud.ipynb
   - file: notebooks/01.Prerequisites/jupyter.ipynb
   - file: notebooks/01.Prerequisites/unix.ipynb
