@@ -4,12 +4,14 @@
 format: jb-book
 root: README
 
-chapters:
-- file: notebooks/01.Prerequisites/title.ipynb
-  sections:
-  - file: notebooks/01.Prerequisites/cloud.ipynb
-  - file: notebooks/01.Prerequisites/jupyter.ipynb
-  - file: notebooks/01.Prerequisites/unix.ipynb
+parts:
+  - caption: Name of Part 1
+  chapters:
+  - file: notebooks/01.Prerequisites/title.ipynb
+    sections:
+    - file: notebooks/01.Prerequisites/cloud.ipynb
+    - file: notebooks/01.Prerequisites/jupyter.ipynb
+    - file: notebooks/01.Prerequisites/unix.ipynb
 
 - file: notebooks/02.CESM-basics/title.ipynb
   sections:
