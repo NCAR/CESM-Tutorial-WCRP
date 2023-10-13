@@ -20,6 +20,7 @@ chapters:
 
 - file: notebooks/03.Run-length/title.ipynb
   sections:
+  - file: notebooks/03.Run-length/xml.ipynb
   - file: notebooks/03.Run-length/run_length.ipynb
   - file: notebooks/03.Run-length/resubmission.ipynb  
   - file: notebooks/03.Run-length/exercise1.ipynb
