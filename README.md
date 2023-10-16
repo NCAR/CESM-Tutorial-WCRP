@@ -1,8 +1,8 @@
 # [CESM Tutorial at WCRP](https://ncar.github.io/CESM-Tutorial-WCRP/README.html)
 
-**Time**: October 24-25 (Evening), 2023
+**Time**: Tuesday 24th and Wednesday 25th  from 19:00-22:00
 
-**Location**: TBD
+**Location**: room AD1
 ___
 
 [![WCRP logo](images/logo_WCRP.png)](https://wcrp-osc2023.org/)
