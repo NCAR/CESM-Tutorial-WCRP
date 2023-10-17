@@ -62,7 +62,6 @@ chapters:
 - file: notebooks/10.Community-runs/title.ipynb
   sections:
   - file: notebooks/10.Community-runs/overview.ipynb
-  - file: notebooks/10.Community-runs/exercise.ipynb
 
 - file: notebooks/11.LE-analysis/title.ipynb
   sections:
