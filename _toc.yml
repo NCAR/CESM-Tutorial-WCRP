@@ -61,7 +61,9 @@ chapters:
 
 - file: notebooks/10.Community-runs/title.ipynb
   sections:
-  - file: notebooks/10.Community-runs/overview.ipynb
+  - file: notebooks/10.Community-runs/getting_help.ipynb
+  - file: notebooks/10.Community-runs/workinggroups.ipynb
+  - file: notebooks/10.Community-runs/CESMsimulations.ipynb
 
 - file: notebooks/11.LE-analysis/title.ipynb
   sections:
