@@ -52,7 +52,7 @@ chapters:
   sections:
   - file: notebooks/08.SourceMods/overview
   - file: notebooks/08.SourceMods/add_fields_cam
-  - file: notebooks/08.SourceMods/exercises/exercise_add_field
+  - file: notebooks/08.SourceMods/exercise
 
 - file: notebooks/09.Runtype/title.ipynb
   sections:
